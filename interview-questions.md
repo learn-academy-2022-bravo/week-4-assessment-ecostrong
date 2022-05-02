@@ -1,4 +1,4 @@
-# ASSESSMENT 4: Interview Practice Questions
+<!-- # ASSESSMENT 4: Interview Practice Questions
 Answer the following questions.
 
 First, without external resources. Challenge yourself to answer from memory.
@@ -66,20 +66,27 @@ float b = 0.0
 
 ## Looking Ahead: Terms for Next Week
 
-1. Instance Variable: An instance variable in ruby is a name starting with @ symbol. Two separate objects even though they belong to the same class can have different values for their instance variable. Instance variables have the value nil before initialization.
+1. Instance Variable: An instance variable in ruby is a name starting with @ symbol. 
+Two separate objects even though they belong to the same class can have different values for their instance variable. 
+Instance variables have the value nil before initialization.
 
 instance variable
 @myName = "HoneyBee1"
 Output= My name is HoneyBee1
 
 
-2. PostgreSQL: Is an advanced, enterprise open source object-relational database system. It has been around for 30 years and has a reputation for being a reliable and stable database management system.
+2. PostgreSQL: Is an advanced, enterprise open source object-relational database system.
+ It has been around for 30 years and has a reputation for being a reliable and stable database management system.
 
-3. Ruby on Rails: Is a server-side web application framework. It is written in Ruby. Ruby on Rails is used by AirbnB, GitHub, and Shopify. It is a model-view controller (MVC)framework, providing default structures for a database, a web service, and web pages. It uses JSON or XML, and HTML, CSS and JavaScript for user interfacing.
+3. Ruby on Rails: Is a server-side web application framework. It is written in Ruby. Ruby on Rails is used by AirbnB, GitHub, and Shopify. 
+It is a model-view controller (MVC)framework, providing default structures for a database, a web service, and web pages. 
+It uses JSON or XML, and HTML, CSS and JavaScript for user interfacing.
 
-4. ORM: Object-relational mapping is a programming technique for converting data between types of systems. This is an Object-relational mapper, and it is a library that implements this technique.  
+4. ORM: Object-relational mapping is a programming technique for converting data between types of systems.
+ This is an Object-relational mapper, and it is a library that implements this technique.  
 
-5. Active Record: Is the Object/Relational Mapping (ORM layer in Rails. Performs queries  on the database for you an is compatible with most database systems. Regardless of the database you are using the Active Record method format will always be the same.
+5. Active Record: Is the Object/Relational Mapping (ORM layer in Rails. Performs queries  on the database for you an is compatible with most database systems. 
+  Regardless of the database you are using the Active Record method format will always be the same.
   -table map to classes
   -rows map to objects and
-  -columns map to object attributes
+  -columns map to object attributes -->
